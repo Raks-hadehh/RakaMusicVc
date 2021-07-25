@@ -1,8 +1,8 @@
 {
-  "name": "FANDI MUSIC",
+  "name": "RAKA MUSIC",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/fandi999/FANDI-MUSIC",
+  "repository": "https://github.com/Raks-hadehh/RakaMusicVc",
   "stack": "container",
   "buildpacks": [
    {
@@ -30,17 +30,17 @@
     "SUPPORT_GROUP": {
       "description": "Grup dukungan MusicPlayer Anda Tanpa Menggunakan ==> @ <== [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "GeezSupportGroup"
+      "value": "isikepalavalen"
     },
     "UPDATES_CHANNEL": {
       "description": "Updates Channel @ [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "GeezProjects"
+      "value": "isikepalavalen"
     }, 
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
       "required": false,
-      "value": "Geez Projects"
+      "value": "RakaMusicVc"
     },
     "ASSISTANT_NAME": {
       "description": "Username Telegram asisten Music Player Anda tanpa @.",
